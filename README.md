@@ -26,4 +26,6 @@ This is the front end service for NoteBook application and works with [NoteBook_
 
 * http://localhost:3000
 
-![alt text](https://github.com/[SudheerKumarKancharla]/[NoteBook]/blob/[main]/public/Application_Reference.PNG?raw=true)
+![alt text](https://github.com/SudheerKumarKancharla/NoteBook/blob/main/public/Application_Reference.PNG?raw=true)
+
+
