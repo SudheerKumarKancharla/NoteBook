@@ -20,7 +20,7 @@ ReactJS
 
 ### About
 
-This is the front end service for NoteBook application and workds with [NoteBook_Search](https://github.com/SudheerKumarKancharla/NoteBook_Search) service. User can add the notes in the left hand side text area. After adding the notes , no need to save any thing it will get saved automatically. And in the right side search bar, can search for  the required word to know the frequency and similar words from the notes.
+This is the front end service for NoteBook application and works with [NoteBook_Search](https://github.com/SudheerKumarKancharla/NoteBook_Search) service. User can add the notes in the left hand side text area. After adding the notes , no need to save any thing it will get saved automatically. And in the right side search bar, can search for  the required word to know the frequency and similar words from the notes.
 
 ### URL Reference
 
