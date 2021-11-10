@@ -1,0 +1,64 @@
+
+.App-header {
+  background: linear-gradient(
+61deg
+, rgb(9, 14, 44) 0%, rgb(18, 44, 105) 59%, rgb(7, 141, 179) 100%);
+  min-height: 100vh;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(248, 241, 241);
+}
+
+input[type=text] {
+  display: inline;
+  position: relative;
+  padding: 10px;
+  margin-top: 100px;
+  margin-left: 160px;
+  font-size: 17px;
+  border: 1px solid grey;
+  width: 35%;
+  background: #f1f1f1;
+}
+
+button {
+  width: 65px;
+  padding: 10px;
+  background: rgb(80, 155, 218);
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+
+
+a {
+  color: white;
+}
+
+#notebook {
+  text-align: left;
+  width: 500px;
+  color: rgb(39, 35, 35);
+  font-size: calc(8px + 1vmin);
+}
+
+textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.rowC{display:flex; flex-direction:row;}
+
+.notebookhead {
+  border: 1px solid ;
+  margin-top: 100px;
+}
+
+h5 {
+  margin-left: 160px;
+  margin-bottom: 1px;
+}
